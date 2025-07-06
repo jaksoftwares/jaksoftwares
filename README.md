@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://your-company-banner.com/banner.png" alt="JakSoftwares Banner" width="100%"/>
+  <img src="https://res.cloudinary.com/dfwc6qrrs/image/upload/v1751797519/Jak_Banner_cka3fy.png" alt="JakSoftwares Banner" width="100%"/>
 </p>
 
 ---
