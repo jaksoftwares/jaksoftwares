@@ -1,111 +1,142 @@
-<h1 align="center">🚀 Welcome to JakSoftwares!</h1>
+<h1 align="center">🚀 Joseph Kirika | Full-Stack Developer</h1>
 <p align="center">
-  <b>Innovate. Build. Empower.</b>  
+  <b>Building digital solutions that make an impact</b>  
 </p>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dfwc6qrrs/image/upload/v1751797519/Jak_Banner_cka3fy.png" alt="JakSoftwares Banner" width="100%"/>
-</p>
-
----
-
-# 🏢 About JakSoftwares
-
-At **JakSoftwares**, we don't just build software — we craft **experiences** and **solutions** that drive innovation.  
-We are a passionate team of developers, designers, and problem-solvers committed to **turning ideas into impactful digital products**.
-
-### 🎯 Our Vision
-> To be the leading force in software innovation, empowering businesses and communities worldwide.
-
-### 🌟 Our Mission
-> Deliver reliable, scalable, and high-performing digital solutions that transform industries and enrich lives.
-
-### 🧭 Our Core Values
-- **Excellence:** Pursue the highest quality standards
-- **Innovation:** Challenge norms, embrace new ideas
-- **Integrity:** Do what’s right, not what’s easy
-- **Customer Success:** Your success is our success
-
----
-
-# ⚙️ Services We Offer
-
-| Service | Description |
-|:--------|:------------|
-| 🖥️ Custom Software Development | Tailor-made software for businesses and startups. |
-| 🌐 Web Application Development | Responsive, modern, and scalable websites and web apps. |
-| 📱 Mobile App Development | Native and cross-platform mobile solutions. |
-| ☁️ Cloud & DevOps | Scalable, secure cloud solutions and DevOps services. |
-| 🎨 UI/UX Design | Crafting user-centered designs that convert. |
-| 🛒 E-Commerce Solutions | Building robust online stores and marketplaces. |
-| 🧠 AI & Automation | Leveraging AI to automate and innovate. |
-
----
-
-# 🚀 Featured Projects
-
-Here’s a glimpse into what we’ve proudly built:
-
-### 🌟 [Project One Name](https://github.com/yourrepo)
-> A brief impactful description about the project, tech stack used, and outcome.
-
-### 🌟 [Project Two Name](https://github.com/yourrepo)
-> Another highlight description that shows value delivered and innovation.
-
-### 🌟 [Project Three Name](https://github.com/yourrepo)
-> Another key project showing problem solved, success metrics, and future plans.
-
-[👉 Browse all our projects here!](https://github.com/JakSoftwares?tab=repositories)
-
----
-
-# 💡 Our Expertise
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://res.cloudinary.com/dfwc6qrrs/image/upload/v1751797519/Jak_Banner_cka3fy.png" alt="Joseph Kirika Banner" width="100%"/>
 </p>
 
 ---
 
-# 🌍 Why Choose JakSoftwares?
+## 👋 About Me
 
-✅ **Client-Centric Approach** — Your goals are our mission  
-✅ **Full-Cycle Development** — From idea to launch and beyond  
-✅ **Agile Methodology** — Fast delivery, continuous improvements  
-✅ **Transparent Communication** — You’re always in the loop  
-✅ **Future-Ready Solutions** — Built to scale, adapt, and thrive
+I'm **Joseph Kirika**, a passionate full-stack developer and tech entrepreneur with expertise in building scalable web applications and digital solutions. With a background in Computer Science from JKUAT and experience leading Dovepeak Digital, I bridge the gap between technology and business strategy.
 
----
+**What I bring to the table:**
+- 🛠️ Full-stack development expertise
+- 🎯 Business-focused technical solutions
+- 🔍 Problem-solving mindset
+- 🚀 Passion for innovation and clean code
 
-# 🤝 Let's Work Together!
-
-Have a project idea? We would love to hear from you!
-
-- 🌐 Website: [jaksoftwares.com](https://jaksoftwares.com)
-- 📧 Email: [contact@jaksoftwares.com](mailto:contact@jaksoftwares.com)
-- 🐦 Twitter: [@JakSoftwares](https://twitter.com/jaksoftwares)
-- 📸 Instagram: [@JakSoftwares](https://instagram.com/jaksoftwares)
-- 💼 LinkedIn: [JakSoftwares LinkedIn](https://linkedin.com/company/jaksoftwares)
+[🌐 Portfolio Website](http://joseph.kirika.dovepeakdigital.com/) | [📧 Contact Me](mailto:your-email@example.com)
 
 ---
 
+## 🛠️ Technical Skills
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Development
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Additional Skills
+- SEO Optimization
+- Mobile Responsiveness
+- UI/UX Design
+- Agile Workflow
+- Leadership & Team Collaboration
+
+---
+
+## 🌟 Featured Projects
+
+### 1. AutoStore eCommerce
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://autostore-q6v3.vercel.app/)
+> A powerful multi-vendor marketplace for vehicle and auto spare parts.
+
+**Tech Stack:** Next.js, Tailwind CSS, MongoDB
+
+---
+
+### 2. LivingSpot
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://livingspot.vercel.app/)
+> A housing marketplace platform for listing and finding vacant rentals near institutions.
+
+**Tech Stack:** React, Node.js, PostgreSQL
+
+---
+
+### 3. SmartTraffic AI
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://smarttraffic-ai.vercel.app/)
+> An AI-based urban traffic management system simulation using open datasets.
+
+**Tech Stack:** Python, AI/ML, TensorFlow
+
+---
+
+### 4. DDS Consulting Website
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dds-consulting.vercel.app/)
+> A professional business consultancy site showcasing digital and operational services.
+
+**Tech Stack:** Next.js, Tailwind CSS, Firebase
+
+---
+
+### 5. JKUAT Find My Lost ID
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jkuatfindmylostid.vercel.app/)
+> A lost-and-found ID recovery platform with STK Push integration and claim system.
+
+**Tech Stack:** Next.js, Express.js, Supabase
+
+[View All Projects →](https://github.com/JakSoftwares?tab=repositories)
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <b>Thank you for visiting our GitHub!</b>  
+  <img src="https://github-readme-stats.vercel.app/api?username=jaksoftwares&show_icons=true&theme=dark" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaksoftwares&theme=dark" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <i>"Building The Future, One Line of Code at a Time."</i>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaksoftwares&layout=compact&theme=dark" alt="Top Languages" width="48%"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to collaborations and interesting conversations:
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaksoftwares)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/KirikaJoseph1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-kirika-4a821b278/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jose.kiri.39/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joseph_praise1978/)
+
+---
+
+<p align="center">
+  <i>"Turning ideas into impactful digital solutions"</i>
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JakSoftwares" alt="Visitor Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=jaksoftwares&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
