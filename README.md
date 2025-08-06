@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Joseph Kirika | Full-Stack Developer</h1>
+<h1 align="center">Joseph Kirika | Full-Stack Developer</h1>
 <p align="center">
   <b>Building digital solutions that make an impact</b>  
 </p>
