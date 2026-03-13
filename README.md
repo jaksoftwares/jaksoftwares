@@ -19,7 +19,7 @@ I'm **Joseph Kirika**, a passionate full-stack developer and tech entrepreneur w
 - 🔍 Problem-solving mindset
 - 🚀 Passion for innovation and clean code
 
-[🌐 Portfolio Website](http://joseph.kirika.dovepeakdigital.com/) | [📧 Contact Me](mailto:your-email@example.com)
+[🌐 Portfolio Website](http://joseph.kirika.dovepeakdigital.com/) | [📧 Contact Me](mailto:josephkirika361@gmail.com)
 
 ---
 
