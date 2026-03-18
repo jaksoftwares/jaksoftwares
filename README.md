@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dfwc6qrrs/image/upload/v1751797519/Jak_Banner_cka3fy.png" alt="Joseph Kirika Banner" width="100%"/>
+  <img src="https://res.cloudinary.com/djgyftmoh/image/upload/v1773829114/main_photo_qgw9s4.png" alt="Joseph Kirika Banner" width="100%"/>
 </p>
 
 ---
