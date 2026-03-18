@@ -96,7 +96,13 @@ I'm **Joseph Kirika**, a passionate full-stack developer and tech entrepreneur w
 
 ---
 
-### 2. LivingSpot
+### 2. InvoiceFlow
+🔗 https://invoiceflow.dovepeakdigital.com/  
+> A professional invoicing and billing platform designed to streamline business transactions, manage clients, and automate payment workflows.
+
+**Tech Stack:** Next.js, Node.js, PostgreSQL
+
+### 3. LivingSpot
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://livingspot.vercel.app/)
 > A housing marketplace platform for listing and finding vacant rentals near institutions.
 
@@ -104,7 +110,7 @@ I'm **Joseph Kirika**, a passionate full-stack developer and tech entrepreneur w
 
 ---
 
-### 3. SmartTraffic AI
+### 4. SmartTraffic AI
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://smarttraffic-ai.vercel.app/)
 > An AI-based urban traffic management system simulation using open datasets.
 
@@ -112,7 +118,7 @@ I'm **Joseph Kirika**, a passionate full-stack developer and tech entrepreneur w
 
 ---
 
-### 4.  E-Commerce Platforms Built
+### 5.  E-Commerce Platforms Built
 
 - 🔗 https://fasthub.co.ke/  
 - 🔗 https://www.opulencebyseruya.co.ke/  
@@ -120,14 +126,14 @@ I'm **Joseph Kirika**, a passionate full-stack developer and tech entrepreneur w
 
 > Production-ready, SEO-optimized eCommerce systems with payment integrations and performance tuning.
 
-### 5.  SEO & Automation Tools
+### 6.  SEO & Automation Tools
 
 ###  Business SEO Automation Tool
 🔗 https://github.com/jaksoftwares/seotool  
 
 > Automates SEO audits, keyword tracking, and optimization strategies for businesses.
 
-### 6.  Automation Services
+### 7.  Automation Services
 
 I design and deploy automation systems that help businesses:
 - Reduce manual workflows
